@@ -61,5 +61,4 @@ print("a > b and a = b :",(a > b) and (a == b ))
 print("a < b and a = b :",(a < b) and (a == b ))
 print("a < b or a = b :",(a < b) or (a == b ))
 print("a > b or a = b :",(a > b) or (a == b ))
-
 # type() -> print type of data
