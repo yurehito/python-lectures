@@ -13,7 +13,7 @@
 # print(marks[0])
 # print(marks[4])
 
-student = ["rishizip", 19, 6.2, True]
+student = ["yurehito", 19, 6.2, True]
 # list can store different type of data
 print(student[0])
 student[0] = "zipfiles" # we can change elements in list
