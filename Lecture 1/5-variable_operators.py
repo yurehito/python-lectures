@@ -54,6 +54,8 @@
 # and -> if both statements are True then it will return True or it will return False
 # or -> if one of the statemend is True then it will return True either False
 
+# type() -> print type of data
+
 a = int(input("Enter 1st number : "))
 b = int(input("Enter 2nd number : "))
 print("not a > b :",not(a>b))
@@ -61,4 +63,3 @@ print("a > b and a = b :",(a > b) and (a == b ))
 print("a < b and a = b :",(a < b) and (a == b ))
 print("a < b or a = b :",(a < b) or (a == b ))
 print("a > b or a = b :",(a > b) or (a == b ))
-# type() -> print type of data
