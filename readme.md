@@ -1,7 +1,7 @@
 # 🐍 Python - The Most Loved Language <3
 ![Python Banner](https://github.com/yurehito/docs/blob/ffc56e3fa78e4741c7c9ae2fa34885583add169c/python%20banner.png?raw=true)
 
-> ##### This collection includes essential Python programming lectures, practice exercises, and VS Code-themed notes and lecture materials
+> ### This collection includes essential Python programming lectures, practice exercises, and VS Code-themed notes and lecture materials
 
 <div align="center">
   <a href="https://yurei.is-a.dev">
