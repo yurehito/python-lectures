@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="https://yurei.is-a.dev">
-    <img src="https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=google-chrome" alt="Website"/>
+    <img src="https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=google-chrome" alt="Website" style="transform: scale(1.3); margin: 10px;" />
   </a>
   <a href="https://drive.google.com/drive/folders/1LahwPSc6f9nkxBiRrz6LFUzkrg-Kzvov?usp=sharing">
-    <img src="https://img.shields.io/badge/Grab-Notes-whiteviolet?style=for-the-badge&logo=google-drive" alt="Notes"/>
+    <img src="https://img.shields.io/badge/Grab-Notes-whiteviolet?style=for-the-badge&logo=google-drive" alt="Notes" style="transform: scale(1.3); margin: 10px;" />
   </a>
   <a href="https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&si=Q4f6_RguRBNUCHn-">
-    <img src="https://img.shields.io/badge/Watch-Lectures-red?style=for-the-badge&logo=youtube" alt="Youtube"/>
+    <img src="https://img.shields.io/badge/Watch-Lectures-red?style=for-the-badge&logo=youtube" alt="Youtube" style="transform: scale(1.3); margin: 10px;" />
   </a>
 </div>
 
